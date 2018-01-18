@@ -1,5 +1,9 @@
+body{
+    background-color: blue;
+}
+
 h1{
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 .btn {
@@ -9,3 +13,4 @@ h1{
 #buttonRow {
     margin-bottom: 5%
 }
+
